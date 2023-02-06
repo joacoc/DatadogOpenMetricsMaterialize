@@ -10,6 +10,8 @@ Materialize collects information about its internal components in a [public cata
 
 Datadog's OpenMetrics integration can consume from the Prometheus SQL Exporter endpoint and allows a way to monitor Materialize.
 
+<img width="1499" alt="Datadog" src="https://user-images.githubusercontent.com/11491779/216926716-cc0cdd46-7ea7-496f-8fa3-a4863fc1ce00.png">
+
 ## Prerequisites
 
 - [Docker Compose](https://docs.docker.com/compose/install/)
